@@ -7,16 +7,5 @@ Demo de Aconcagua Bank para voicebot y chatbot
 
 
 
-## actions
-
-### ENV VARS
-
-CMS_API_URL
-
-
-
-### SECRETS
-
-email_url
-email_api_key
+No se requiere ninguna variable de entorno, ver bank.env.example para ver las variables de entorno que se pueden usar.
 
